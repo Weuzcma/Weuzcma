@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Weuzcma
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+troubleshoot for the robot;
+final inc HIGH Basket = 2600;
+FinalDoubleFOUR_Release
+Final Inc Home Possetion = 10;
 
-<!---
-Weuzcma/Weuzcma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+//SetPositionjj();
+
+godtoPossetion(HIGH_Basket_Score)
+Private Vopid SetupPosition
+() {
+thrresTagwirst>sdetPosition()};
